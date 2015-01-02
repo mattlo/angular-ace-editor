@@ -1,0 +1,24 @@
+{
+  "name": "angular-ace-editor",
+  "version": "1.0.0",
+  "authors": [
+    "Matt Lo <mattlo.developer@gmail.com>"
+  ],
+  "description": "An AngularJS wrapper around Cloud9's JavaScript code editor.",
+  "keywords": [
+    "angular",
+    "ace",
+    "cloud9",
+    "editor",
+    "code"
+  ],
+  "license": "Apache",
+  "homepage": "https://github.com/mattlo/angular-ace-editor",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
